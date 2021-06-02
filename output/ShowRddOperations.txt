@@ -1,0 +1,172 @@
+Top Genres:
+	Decade: 1940, Genre: Film-Noir
+	Decade: 2010, Genre: Action
+	Decade: 2000, Genre: Action
+	Decade: 1930, Genre: Film-Noir
+	Decade: 1950, Genre: Film-Noir
+	Decade: 1970, Genre: Action
+	Decade: 1900, Genre: Action
+	Decade: 1870, Genre: Documentary
+	Decade: 1880, Genre: Documentary
+	Decade: 1990, Genre: Action
+	Decade: 1890, Genre: Action
+	Decade: 1980, Genre: Action
+	Decade: 1910, Genre: Action
+	Decade: 1920, Genre: Film-Noir
+	Decade: 1960, Genre: Action
+	Decade: 2020, Genre: Action
+
+Season Hits:
+	Year: 1895, Title: The Waterer Watered, Rating: 7.1
+	Year: 1940, Title: Tom and Jerry, Rating: 9.3
+	Year: 2000, Title: Episode dated 8 June 2000, Rating: 10.0
+	Year: 2010, Title: The Shepherd's Children, Rating: 10.0
+	Year: 1930, Title: Looney Tunes, Rating: 9.2
+	Year: 1950, Title: Rancho Alegre, Rating: 9.4
+	Year: 1885, Title: L'homme machine, Rating: 5.2
+	Year: 1905, Title: Halloween, Rating: 8.9
+	Year: 1970, Title: Episode #2.157, Rating: 10.0
+	Year: 1935, Title: Filmul Iasilor, Rating: 8.7
+	Year: 1900, Title: Another Picture Showing Demonstration of a Pneumatic Shell Riveter, Rating: 8.5
+	Year: 1925, Title: Hot Doggie, Rating: 9.7
+	Year: 2005, Title: Episode #1.2, Rating: 10.0
+	Year: 2015, Title: Episode #1.8, Rating: 10.0
+	Year: 1965, Title: Plemicko gnijezdo, Rating: 10.0
+	Year: 1990, Title: Episode #1.1, Rating: 10.0
+	Year: 1945, Title: Tee for Two, Rating: 9.5
+	Year: 1985, Title: Episode #1.8837, Rating: 10.0
+	Year: 1995, Title: Tongue, Rating: 10.0
+	Year: 1955, Title: Die 10 war ihr Schicksal, Rating: 10.0
+	Year: 1890, Title: Mosquinha, Rating: 6.5
+	Year: 1980, Title: Julie Andrews' Invitation to the Dance with Rudolf Nureyev, Rating: 10.0
+	Year: 1910, Title: The Girl on Triple X, Rating: 8.6
+	Year: 1975, Title: Episode #5.8, Rating: 9.8
+	Year: 1920, Title: How Babe Ruth Hits a Home Run, Rating: 8.8
+	Year: 1915, Title: Hänen Majesteettinsa Keisarin käynti Helsingissä, Rating: 8.7
+	Year: 1960, Title: Der Vetter aus Dingsda, Rating: 10.0
+	Year: 2020, Title: Rand Fishkin, Rating: 10.0
+	Year: 2021, Title: Darling, Rating: 10.0
+	Year: 1921, Title: The Rider of the King Log, Rating: 9.6
+	Year: 1961, Title: Siva biljeznica, Rating: 10.0
+	Year: 1981, Title: Arturo Benedetti Michelangeli, Rating: 10.0
+	Year: 1881, Title: Athlete Swinging a Pick, Rating: 5.3
+	Year: 2001, Title: Episode dated 4 October 2001, Rating: 10.0
+	Year: 2006, Title: Keane: Live in Chicago, Rating: 10.0
+	Year: 1941, Title: Meet the Stars #3: Variety Reel #1, Rating: 10.0
+	Year: 1926, Title: A Briny Boob, Rating: 9.0
+	Year: 1996, Title: Auntie's All-Time Greats, Rating: 10.0
+	Year: 1971, Title: Autodafe moga oca, Rating: 10.0
+	Year: 1986, Title: The 2nd Commitment to Life AIDS Project Benefit, Rating: 10.0
+	Year: 1896, Title: Dancing Darkies, Rating: 7.7
+	Year: 1976, Title: Tri jablana, Rating: 10.0
+	Year: 1931, Title: City Lights, Rating: 8.5
+	Year: 1946, Title: It's a Wonderful Life, Rating: 8.6
+	Year: 1936, Title: Screen Snapshots Series 15, No. 10, Rating: 9.3
+	Year: 1916, Title: Sally in Our Alley, Rating: 10.0
+	Year: 2016, Title: Ayaan blackmails Dev, Rating: 10.0
+	Year: 1906, Title: World Series Baseball Game, Rating: 8.9
+	Year: 1956, Title: Of und der Mond, Rating: 10.0
+	Year: 1891, Title: Dickson Greeting, Rating: 5.3
+	Year: 2011, Title: Episode #1.85, Rating: 10.0
+	Year: 1991, Title: Dubrovnik jedan od ovih dana, Rating: 10.0
+	Year: 1901, Title: Arrival of Funeral Cortege at St. George's Chapel, Rating: 8.5
+	Year: 1951, Title: Ne spavaju svi nocu, Rating: 9.4
+	Year: 1966, Title: Mirotvorci, Rating: 10.0
+	Year: 1911, Title: Însir'te margarite, Rating: 9.0
+	Year: 1887, Title: Child Carrying Flowers to Woman, Rating: 5.9
+	Year: 2002, Title: Episode dated 26 August 2002, Rating: 10.0
+	Year: 1897, Title: Hallow-e'en in Coon-Town, Rating: 7.1
+	Year: 1932, Title: Festas de Homenagem do Futebol Clube do Porto à Rainha da Colónia Portuguesa no Brasil, Rating: 8.7
+	Year: 1942, Title: O Dragãozinho Manso: Jonjoca, Rating: 9.4
+	Year: 1982, Title: Murder, They Said, Rating: 10.0
+	Year: 1937, Title: Screen Snapshots Series 16, No. 8, Rating: 9.4
+	Year: 1962, Title: Stück für Stück, Rating: 10.0
+	Year: 1972, Title: Zapadnya, Rating: 9.7
+	Year: 2012, Title: O Mikros Indos me Stixous, Rating: 10.0
+	Year: 1907, Title: The Dancing Nig, Rating: 8.8
+	Year: 1922, Title: The Greek Interpreter, Rating: 8.9
+	Year: 1947, Title: The Cat Concerto, Rating: 9.4
+	Year: 1987, Title: Episode dated 14 May 1987, Rating: 10.0
+	Year: 1967, Title: Deseti rodjaci, Rating: 10.0
+	Year: 1912, Title: The Pony Express Girl, Rating: 9.2
+	Year: 1992, Title: The Enchantment of Jozo Vila, Rating: 10.0
+	Year: 1977, Title: Episode #1.1, Rating: 10.0
+	Year: 1957, Title: Discoteca do Chacrinha, Rating: 10.0
+	Year: 1877, Title: La Rosace Magique, Rating: 7.1
+	Year: 1892, Title: Pauvre Pierrot, Rating: 6.5
+	Year: 1917, Title: Masked Ball, Rating: 9.4
+	Year: 1927, Title: The Satin Woman, Rating: 9.2
+	Year: 1902, Title: Foxy Grandpa Shows the Boys a Trick or Two with the Tramp, Rating: 8.3
+	Year: 2007, Title: Ignorance Is Bliss, Rating: 10.0
+	Year: 1997, Title: Radio 101, Rating: 10.0
+	Year: 2017, Title: Conversation, Rating: 10.0
+	Year: 1952, Title: Putting on the Ritz, Rating: 9.7
+	Year: 1998, Title: Pressure, Rating: 10.0
+	Year: 1888, Title: Roundhay Garden Scene, Rating: 7.3
+	Year: 1903, Title: La mort du pape Léon XIII, Rating: 9.8
+	Year: 1878, Title: Sallie Gardner at a Gallop, Rating: 7.4
+	Year: 1933, Title: Trailing North, Rating: 9.1
+	Year: 1898, Title: The Pelican at the Zoo, Rating: 8.2
+	Year: 2008, Title: Episode #1.1, Rating: 10.0
+	Year: 1948, Title: La Grande Lutte des mineurs, Rating: 9.1
+	Year: 1983, Title: Episode #1.1, Rating: 10.0
+	Year: 1973, Title: Krhka igracka, Rating: 10.0
+	Year: 1988, Title: Episode dated 31 October 1988, Rating: 10.0
+	Year: 1928, Title: The Fight Pest, Rating: 9.0
+	Year: 1893, Title: Blacksmith Scene, Rating: 6.2
+	Year: 1978, Title: Homo homini, Rating: 9.9
+	Year: 2003, Title: Episode dated 20 January 2003, Rating: 10.0
+	Year: 1923, Title: Eubie Blake Plays His Fantasy on Swanee River, Rating: 8.8
+	Year: 2013, Title: Episode #1.4, Rating: 10.0
+	Year: 1968, Title: Tamo gdje bizoni lutaju, Rating: 10.0
+	Year: 2018, Title: Hunt Down the Refund, Rating: 10.0
+	Year: 1908, Title: The Reprieve: An Episode in the Life of Abraham Lincoln, Rating: 8.4
+	Year: 1943, Title: He Can't Make It Stick, Rating: 9.6
+	Year: 1918, Title: A Régiséggyüjtö, Rating: 9.2
+	Year: 1913, Title: One on Romance, Rating: 8.4
+	Year: 1883, Title: Buffalo Running, Rating: 6.3
+	Year: 1963, Title: Patent 102, Rating: 10.0
+	Year: 1958, Title: Till Time Shall End, Rating: 10.0
+	Year: 1953, Title: Kopf oder Zahl, Rating: 10.0
+	Year: 1938, Title: As Aventuras de Virgolino, Rating: 9.6
+	Year: 1993, Title: To 'ohi', Rating: 10.0
+	Year: 1969, Title: Mister Barnett, Rating: 10.0
+	Year: 1984, Title: Raskoljnikov iz studentskog servisa, Rating: 10.0
+	Year: 1899, Title: Fight Between a Miller and a Sweep, Rating: 7.2
+	Year: 1944, Title: The Million Dollar Cat, Rating: 9.3
+	Year: 2019, Title: Mayhem 247, Rating: 10.0
+	Year: 1934, Title: The First World War, Rating: 8.8
+	Year: 1909, Title: Theodora, Rating: 9.4
+	Year: 1889, Title: Hyde Park Corner, Rating: 5.3
+	Year: 1924, Title: Crushed, Rating: 8.4
+	Year: 2014, Title: Kovetai to Sex #Theopoula Challenge Special!!, Rating: 10.0
+	Year: 1954, Title: Pagliacci, Rating: 9.8
+	Year: 1949, Title: The Jack Benny Program, Rating: 9.1
+	Year: 1994, Title: Valentines. A Bouquet of Letters and Poetry of Lovers, Rating: 10.0
+	Year: 1919, Title: The Witness for the Defense, Rating: 8.3
+	Year: 1974, Title: Grad, Rating: 10.0
+	Year: 1904, Title: The Nigger Boy's Revenge, Rating: 8.8
+	Year: 1939, Title: El organillero, Rating: 9.4
+	Year: 1894, Title: Autour d'une cabine ou Mésaventures d'un copurchic aux bains de mer, Rating: 6.8
+	Year: 1874, Title: Passage de Venus, Rating: 6.9
+	Year: 2004, Title: Goo Girls 16, Rating: 10.0
+	Year: 1914, Title: The Sneeze, Rating: 9.3
+	Year: 1979, Title: Stayin' Alive, Rating: 10.0
+	Year: 1999, Title: Fair and Foul, Rating: 10.0
+	Year: 2009, Title: Aliens in the Attic: Lights, Camera, Aliens, Rating: 10.0
+	Year: 1964, Title: Sablasti, Rating: 10.0
+	Year: 1929, Title: The Feather, Rating: 9.4
+	Year: 1959, Title: Die gute Sieben, Rating: 10.0
+	Year: 1989, Title: Innocent Bi-Standers, Rating: 10.0
+
+Top 10 Actors:
+	Actor: Sameera Sherief, Appearances: 9518
+	Actor: Subhalekha Sudhakar, Appearances: 6816
+	Actor: Delhi Kumar, Appearances: 6678
+	Actor: Neha Gowda, Appearances: 6055
+	Actor: Sudha Chandran, Appearances: 5685
+	Actor: Jada Rowland, Appearances: 5625
+	Actor: Pallavi Ramisetty, Appearances: 5606
+	Actor: Manuela do Monte, Appearances: 5200
+	Actor: Peter Hobbs, Appearances: 5037
+	Actor: Giovanna Grigio, Appearances: 5001

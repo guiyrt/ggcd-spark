@@ -10,7 +10,7 @@ DISK_TYPE="pd-ssd"
 WORKERS=2
 SECONDARY_WORKERS=2
 IMAGE_VERSION="2.0-debian10"
-MAX_IDLE_SECONDS="7200s"
+MAX_IDLE_SECONDS="3600s"
 
 
 E_INVALID_ARGUMENTS=128
@@ -20,14 +20,6 @@ function argcEq () {
     printf "$3\n"
     exit $E_INVALID_ARGUMENTS
 fi
-}
-
-function argcGe () {
-  if [ "$1" -lt "$2" ]; then
-    # shellcheck disable=SC2059
-    printf "$3\n"
-    exit $E_INVALID_ARGUMENTS
-  fi
 }
 
 case $1 in
@@ -65,8 +57,8 @@ case $1 in
 
   # Submit Spark job
   "spark")
-    argcGe "$#" 3 "Invalid input parameters, spark requires at least 2 parameters.\\nUsage: ./cluster.sh spark <JARS> <MAIN_CLASS> [JOB ARGUMENTS]"
-    gcloud dataproc jobs submit spark --region=$REGION --cluster=$CLUSTER_NAME  --jars="$2" --class="$3" -- "${@:4}"
+    argcEq "$#" 3 "Invalid input parameters, spark requires 2 parameters.\\nUsage: ./cluster.sh spark <JARS> <MAIN_CLASS>"
+    gcloud dataproc jobs submit spark --region=$REGION --cluster=$CLUSTER_NAME  --jars="$2" --class="$3"
     ;;
 
   # Submit Hive job
