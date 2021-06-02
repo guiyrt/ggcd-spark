@@ -39,7 +39,8 @@ case $1 in
            --master-boot-disk-type=$DISK_TYPE --master-boot-disk-size=$DISK_SIZE --num-workers=$WORKERS --worker-machine-type=$WORKER_MACHINE_TYPE \
            --worker-boot-disk-type=$DISK_TYPE --worker-boot-disk-size $DISK_SIZE --num-secondary-workers=$SECONDARY_WORKERS \
            --secondary-worker-boot-disk-type=$DISK_TYPE --secondary-worker-boot-disk-size $DISK_SIZE \
-           --image-version=$IMAGE_VERSION --max-idle=$MAX_IDLE_SECONDS --project=$PROJECT_ID
+           --image-version=$IMAGE_VERSION --max-idle=$MAX_IDLE_SECONDS --project=$PROJECT_ID \
+           --optional-components=HBASE,ZOOKEEPER --enable-component-gateway
     ;;
 
   # Stop cluster
