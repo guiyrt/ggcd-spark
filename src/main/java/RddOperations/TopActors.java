@@ -5,6 +5,9 @@ import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.sql.Row;
 import scala.Tuple2;
 
+/**
+ * Class definition to calculate TopActors
+ */
 public class TopActors {
     /**
      * Calculate the title appearances for each actor/actress

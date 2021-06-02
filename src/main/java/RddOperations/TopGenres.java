@@ -7,6 +7,9 @@ import scala.Tuple2;
 
 import java.util.HashMap;
 
+/**
+ * Class definition to calculate TopGenres
+ */
 public class TopGenres {
     /**
      * Calculates the most popular genre for each decade

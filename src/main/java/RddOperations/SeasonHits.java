@@ -8,6 +8,9 @@ import scala.Tuple2;
 import java.math.BigDecimal;
 import java.util.Iterator;
 
+/**
+ * Class definition to calculate SeasonHits
+ */
 public class SeasonHits {
     /**
      * Calculate title with best rating for each year

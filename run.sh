@@ -26,7 +26,7 @@ mvn package
 # Create folders in HDFS
 ./"$CLUSTER" hdfs_mkdir /titleBasics
 ./"$CLUSTER" hdfs_mkdir /titleRatings
-./"$CLUSTER" hdfs_mkdir /titlaPrincipals
+./"$CLUSTER" hdfs_mkdir /titlePrincipals
 ./"$CLUSTER" hdfs_mkdir /nameBasics
 
 # Upload files to HDFS
@@ -35,13 +35,15 @@ mvn package
 ./"$CLUSTER" hdfs_upload "$3" /titlePrincipals
 ./"$CLUSTER" hdfs_upload "$4" /nameBasics
 
-# Run hive jobs
+# Run hive jobs (Objective 1)
 ./"$CLUSTER" hive src/hive/titleBasics.hql
 ./"$CLUSTER" hive src/hive/titleRatings.hql
 ./"$CLUSTER" hive src/hive/titlePrincipals.hql
 ./"$CLUSTER" hive src/hive/nameBasics.hql
 
-# Retrieve output
+# Run spark job (Objective 2)
 ./"$CLUSTER" spark "$JAR" Jobs.ShowRddOperations
+
+# Run spark jobs (Objective 3)
 ./"$CLUSTER" spark "$JAR" Jobs.CreateActorPage
 ./"$CLUSTER" spark "$JAR" ActorPage.Actor

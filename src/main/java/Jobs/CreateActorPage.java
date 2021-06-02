@@ -18,7 +18,16 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * Class definition to execute third assignment objective
+ */
 public class CreateActorPage {
+
+    /**
+     * Executes RDDs and SQL operations to satisfy the third objective of this assignment
+     * actorPage data is stored in HBase, which can be retrieved using the Actor class
+     * @param args Input arguments
+     */
     public static void main(String[] args) throws IOException {
         // HBase config
         Configuration conf = HBaseConfiguration.create();
@@ -26,12 +35,12 @@ public class CreateActorPage {
         // Instantiate spark session
         SparkSession sparkSession = SparkSession
                 .builder()
-                .appName("ShowRddOperations")
+                .appName("CreateActorPage")
                 .config("hive.metastore", "thrift://hive-metastore:9083")
                 .enableHiveSupport()
                 .getOrCreate();
 
-        // Create HBase table
+        // Create actorPage HBase table
         HBase.createTableIfNotTaken(conf, "actorPage", Arrays.asList("base", "friends", "generation", "hits"));
 
         // Base Dataset
@@ -42,11 +51,11 @@ public class CreateActorPage {
 
         // Join with Hits RDD
         Iterator<Tuple2<Row, List<String>>> actorData = dataset
-            .toJavaRDD()
-            .mapToPair(row -> new Tuple2<>(row.getString(0), row))
-            .join(ActorPage.Hits.getHitsRDD(sparkSession))
-            .map(Tuple2::_2)
-            .toLocalIterator();
+            .toJavaRDD() // Convert to RDD to join with hits
+            .mapToPair(row -> new Tuple2<>(row.getString(0), row)) // Convert to PairRDD with actor id as key, and base + friends as value
+            .join(ActorPage.Hits.getHitsRDD(sparkSession)) // Join on actor id
+            .map(Tuple2::_2) // Actor id is present in base + friends, so discard actor id key
+            .toLocalIterator(); // Convert to iterator
 
         // Generation RDD to map
         Map<Short, List<String>> generations = ActorPage.Generation.getGenerationRDD(sparkSession).collectAsMap();

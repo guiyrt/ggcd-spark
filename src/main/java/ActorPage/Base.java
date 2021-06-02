@@ -4,7 +4,16 @@ import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;
 import org.apache.spark.sql.SparkSession;
 
+/**
+ * Class definition to get base information
+ */
 public class Base {
+
+    /**
+     * SQL operation to get base information for actorPage
+     * @param sparkSession Connection to Hive
+     * @return Base information for actorPage
+     */
     public static Dataset<Row> getBaseDataset(SparkSession sparkSession) {
         return sparkSession.sql(
                 "select nb.nconst," +
