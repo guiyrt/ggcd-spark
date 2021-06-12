@@ -1,5 +1,7 @@
 # TP2 GGCD - Spark
 
+Grade: 20/20
+
 This repository contains the source files regarding resolution the second practical assigment.
 
 This project handles multiple IMDB datasets, to resolve the problems found in assignment.pdf.
